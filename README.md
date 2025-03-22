@@ -38,6 +38,8 @@ Sistema para gerenciamento e controle de gravames de veículos, proporcionando a
 ## 🎓 **Educação**
 
 - **Engenharia de Software** (Cursando) - Instituto INFNET, Rio de Janeiro/RJ
+- **Medicina** (Interrompido) - Fundación Barceló, Buenos Aires (2021-2024)
+
 - **Certificações**:
   - **AWS Certified Cloud Practitioner** (em andamento)
   - **Fullstack** - Rocketseat
@@ -47,8 +49,7 @@ Sistema para gerenciamento e controle de gravames de veículos, proporcionando a
   - **Certificado Git e GitHub**: Controle de Versão
   - **Certificado Full-Stack JavaScript Intermediário**
   - **Certificado SIELE de Proficiência em Espanhol**
-  - **Medicina** (Interrompido) - Fundación Barceló, Buenos Aires (2021-2024)
-  
+
 ## 🌍 **Idiomas**
 
 - **Português**: Nativo
