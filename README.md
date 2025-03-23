@@ -56,7 +56,7 @@ Sistema para gerenciamento e controle de gravames de veículos, proporcionando a
 - **Espanhol**: Nativo (cidadão permanente argentino)
 - **Inglês**: Avançado
 - **Francês**: Básico
-- 
+  
 ## 🤝 **Trabalho Voluntário**
 
 - **Desbravadores** (desde 2013): Trabalho com crianças e adolescentes, promovendo atividades ao ar livre, educação ambiental e desenvolvimento pessoal.
