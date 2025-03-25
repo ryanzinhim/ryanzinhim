@@ -41,12 +41,14 @@ A system for managing and controlling vehicle liens, providing automation and ef
 - **Software Engineering** (Ongoing) - Instituto INFNET, Rio de Janeiro, Brazil  
 - **Medicine** (Interrupted) - Fundación Barceló, Buenos Aires (2021-2024)  
 
-- **Certifications**:  
+- **Certifications**:
+  - **Machine Learning** - IBM  
+  - **Deep Learning essentials** - IBM  
   - **AWS Certified Cloud Practitioner** (in progress)  
   - **Fullstack** - Rocketseat  
   - **Python Complete** - Rocketseat  
   - **Node.js** - Rocketseat  
-  - **C#/.NET** (in progress) - Rocketseat  
+  - **C#/.NET** - Rocketseat  
   - **Git & GitHub Certification**: Version Control  
   - **Intermediate Full-Stack JavaScript Certification**  
   - **SIELE Spanish Proficiency Certificate**  
